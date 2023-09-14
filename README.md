@@ -1,4 +1,4 @@
-- 👋 Hi,
+- 👋 Hi!
 - 🌱 I’m currently working on titles to optimize VR Networking functionality.
 - 💞️ I’m open to collaboration in Games/AR/VR development.
   
