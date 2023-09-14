@@ -1,6 +1,4 @@
-- 👋 Hi!
-- 🌱 I’m have been working on different Game titles including Games/AR/VR Networking.
-- 💞️ I’m open to collaboration in Games/AR/VR development.
+- 👋 Hi! I have been working on different Game titles including Games/AR/VR Networking.
   
 <!---
 sadeelnaqvi/sadeelnaqvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
